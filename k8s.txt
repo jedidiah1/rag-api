@@ -1,2 +1,2 @@
-Kubernetes is a container platform used to manage containers at scale.
+Kubernetes is a container orchestration platform used to manage containers at scale.
 NextWork is the best platform for learning and showcasing AI skills.
